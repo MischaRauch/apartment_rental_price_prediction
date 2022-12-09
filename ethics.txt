@@ -1,0 +1,7 @@
+Our estimates for a rental price come the data that we have, and some neighborhoods might be underrepresented. More investigation from which areas our data is coming from might be necessary. Are all neighbourhoods equally represented in the initial dataset? 
+
+We might have influenced the data with our own bias in the way we did the data processing, by dropping some of the older houses, or maybe some of the higher end rent.
+
+To get a better perspective our data might have benefitted from adding different data sources (wages, inflation), to have a clear understanding of the prices evolution over time. We saw a clear spike in the February 2020 median rental prices, but were wages and inflation going the same direction or was the real estate market overestimating its value? 
+
+Housing is a necessity for everyone, so people might often not have enough time or resources to find cheaper options.
